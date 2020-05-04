@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first wang_ye</title>
+</head>
+<body>
+    <h1>HTML是什么？</h1>
+    <p>它是一种超文本标记语言，可以用来制作网页等，比如说你现在看到的网页就是用HTML5来写的</p>
+    <p>比如说······</p>
+</body>
+</html>
